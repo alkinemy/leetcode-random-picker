@@ -1,0 +1,5 @@
+random-picker:
+    build: .
+    environment:
+        - SLACK_BOT_URL=ENTER_YOUR_SLACK_BOT_URL
+        - SLACK_CHANNEL=ENTER_YOUR_SLACK_CHANNEL
